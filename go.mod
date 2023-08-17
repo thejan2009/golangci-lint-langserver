@@ -1,4 +1,4 @@
-module github.com/nametake/golangci-lint-langserver
+module github.com/thejan2009/golangci-lint-langserver
 
 go 1.13
 
